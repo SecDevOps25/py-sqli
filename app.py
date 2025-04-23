@@ -3,7 +3,7 @@ from db import init_db
 from routes import configure_routes
 
 # Set environment: Change this value to 'production' or 'development'
-ENV = 'development'  # Change to 'production' when deploying
+ENV = 'production'  # Change to 'production' when deploying
 
 app = Flask(__name__)
 
