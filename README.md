@@ -43,7 +43,7 @@ This application demonstrates SQL Injection vulnerabilities, improper access con
    Make sure Flask is installed. If not, install it using pip:
 
    ```bash
-   pip3 install flask
+   pip install flask
    ```
 
 3. **Run the Application**:
